@@ -1,4 +1,4 @@
-### 按照阿里提的标准计算错误率
+
 import  numpy as np
 
 GT_FILE = '/home/storage/lsy/fashion/FashionAI_Keypoint_Detection/r1_test_b' \
