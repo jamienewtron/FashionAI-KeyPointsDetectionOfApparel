@@ -17,7 +17,7 @@ from src.kpda_parser import KPDA
 from src.stage2.cascade_pyramid_network import CascadePyramidNet
 from src.stage2v9.cascade_pyramid_network_v9 import CascadePyramidNetV9
 from src.utils import draw_heatmap, draw_keypoints
-from src.stage2.keypoint_encoder import 
+from src.stage2.keypoint_encoder import KeypointEncoder
 
 
 def data_frame_template():
